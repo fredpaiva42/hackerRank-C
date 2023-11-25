@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int PlayingWithChar(){
     char ch, s[100], sen[100];
     scanf("%c", &ch);
     scanf(" %s", s);
