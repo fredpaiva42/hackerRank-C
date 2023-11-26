@@ -8,7 +8,7 @@
 //        - Print the sum and difference of two int variable on a new line.
 //        - Print the sum and difference of two float variable rounded to one decimal place on a new line.
 
-int main(){
+int SumAndDifferenceOfTwoNumbers(){
     int i1, i2;
     float f1, f2;
 
