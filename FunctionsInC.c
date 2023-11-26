@@ -26,4 +26,6 @@ int FunctionInC(){
 
     int ans = max_of_four(a, b, c, d);
     printf("%d", ans);
+
+    return 0;
 }
